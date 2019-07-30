@@ -1,2 +1,2 @@
 # wx-custom-navigation
-This is a custom navigation bar based on the WeChat applet, which is completed by custom component packaging.
+这是一个基于微信小程序的自定义导航栏，导航栏由小程序自定义组件封装而成。
