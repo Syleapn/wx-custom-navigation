@@ -1,0 +1,4 @@
+<bar nav="{{setNav}}"></bar>
+<view class="" style="height:3000rpx;background-color:pink;">
+			正文
+</view>

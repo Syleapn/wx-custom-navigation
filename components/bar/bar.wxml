@@ -1,0 +1,7 @@
+
+<view  style="height:{{titleBarHeight}};padding-top:{{statusBarHeight}}">
+  <view class="header" style="height:{{titleBarHeight}};padding-top:{{statusBarHeight}};background-color: {{nav.bg}}">
+    <text class="iconfont leftArrow header-back weight" style="border:{{nav.color}}" wx:if="{{nav.isdisPlayNavTitle}}" bindtap="back"></text>
+    <view class="header-title weight">{{nav.navTitle}}</view>
+  </view>
+</view>

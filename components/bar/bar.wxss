@@ -1,0 +1,28 @@
+	
+  @import '/iconfont/font.wxss';
+
+  .header {
+		display: flex;
+		align-items: center;
+		top: 0;
+		position: fixed;
+		width: 100%;
+		z-index: 100;
+		left:0;
+	}
+	
+	.header .header-title {
+		position: absolute;
+		left: 50%;
+		font-size: 38upx;
+		transform: translateX(-50%);
+	}
+	.header-back{
+		position: absolute;
+		left:15upx;
+		font-size:30upx;
+		padding: 10upx;
+		border-radius: 50%;
+	}
+
+  
